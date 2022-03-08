@@ -1587,11 +1587,9 @@ input, select, textarea {
 /* Image */
 
 	.photo {
-		width: 100px;
-		height: auto;
-		margin-bottom: 20px;
-		border-radius: 50%;
-		border: 2px solid #fff;
+		max-width: 100%;
+		border-radius: 5px;
+		border: 4px solid #282b34;
 	}
 
 	.image {
