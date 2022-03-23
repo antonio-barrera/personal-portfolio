@@ -1818,14 +1818,6 @@ input, select, textarea {
 			padding-left: 0;
 		}
 
-			ul.actions li:first-child {
-				margin-left: 0;
-			}
-
-			ul.actions li:last-child {
-				margin-right: 0;
-			}
-
 		ul.actions.special {
 			text-align: center;
 		}
